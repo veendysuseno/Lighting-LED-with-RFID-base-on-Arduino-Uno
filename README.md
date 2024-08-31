@@ -15,8 +15,8 @@ The advantages of RFID over other technologies like barcodes include its ability
 - Arduino Uno = 1 piece;
 - RFID Module (RC522) = 1 piece;
 - LED (Red or whatever you have) = 1 piece;
-- Resistor (220Ω) = piece;
-- Project Board / Breadboard = piece;
+- Resistor (220Ω) = 1 piece;
+- Project Board / Breadboard = 1 piece;
 - Jumper Wires.
 
 ## Schematic Picture to Wiring
