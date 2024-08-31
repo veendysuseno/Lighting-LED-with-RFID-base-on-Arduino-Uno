@@ -23,7 +23,7 @@ The advantages of RFID over other technologies like barcodes include its ability
 
 - Below you can see a schematic image to facilitate the wiring of cables from the microcontroller to devices, both input and output sensors:
 
-![Alt text](img/schematic.jpg)
+![Alt text](img/schematic.JPG)
 
 ## Wiring Information and Tutorial Wiring :
 
